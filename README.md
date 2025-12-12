@@ -12,7 +12,7 @@ No backend. No payments. Clean frontend logic only.
 - Product details view  
 - Add to cart / remove from cart  
 - Cart total calculation  
-- Responsive layout  
+- Responsive layout.
 
 ---
 
