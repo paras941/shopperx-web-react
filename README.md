@@ -16,7 +16,7 @@ No backend. No payments. Clean frontend logic only.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack.
 - React
 - JavaScript / TypeScript
 - Vite
