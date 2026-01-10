@@ -11,7 +11,7 @@ Add to cart / remove from cart
 Cart summary with total price calculation
 Responsive design (mobile + desktop)
 Reusable React components
-Clean folder structure
+Clean folder structure.
 
 This project focuses on frontend logic and UI.
 Authentication, payments, and backend APIs can be added later.
