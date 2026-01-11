@@ -27,18 +27,18 @@ Authentication, payments, and backend APIs can be added later.
 📂 Project Structure
 src/
 │── components/
-│   ├── Navbar/
-│   ├── ProductCard/
-│   ├── CartItem/
+│   * Navbar/
+│   * ProductCard/
+│   *CartItem/
 │
 │── pages/
-│   ├── Home.jsx
-│   ├── Product.jsx
-│   ├── Cart.jsx
+│   * Home.jsx
+│   * Product.jsx
+│   * Cart.jsx
 │
 │── context/
-│   └── CartContext.jsx
+│   * CartContext.jsx
 │
-│── assets/
-│── App.jsx
-│── main.jsx
+│  * assets/
+│  *App.jsx
+│  * main.jsx
