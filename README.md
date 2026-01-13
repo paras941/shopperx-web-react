@@ -10,7 +10,7 @@ The project focuses on core shopping features, clean UI, and scalable frontend a
 * Add to cart / remove from cart
 * Cart summary with total price calculation
 * Responsive design (mobile + desktop)
-* Reusable React components
+* Reusable React components.
 * Clean folder structure.
 
 This project focuses on frontend logic and UI.
