@@ -5,7 +5,7 @@ The project focuses on core shopping features, clean UI, and scalable frontend a
 
 🚀 Features
 
-* Product listing with dynamic data
+* Product listing with dynamic data.
 * Product detail pages
 * Add to cart / remove from cart
 * Cart summary with total price calculation
