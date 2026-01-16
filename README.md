@@ -12,7 +12,7 @@ This project is designed to demonstrate production‑style frontend structure su
 * JavaScript (ES6+)
 * React Router DOM
 * Context API
-* CSS / Tailwind (if used)
+* CSS 
 
 ---
 
