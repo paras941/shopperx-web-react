@@ -21,8 +21,8 @@ Live Demo here : [click here](https://shopperx-web-dsbu.vercel.app)
 
 ```
 shpper-site/
-│
-├── src/
+├──my-app
+|   ├── src/
 │   ├── Components/
 │   │   ├── Navbar/
 │   │   ├── Hero/
