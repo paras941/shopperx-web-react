@@ -79,15 +79,6 @@ npm run dev
 
 ---
 
-## 📌 Why This Project Matters (Placement POV)
-
-* Demonstrates **real React architecture** (Context + Hooks)
-* Shows understanding of **state management** beyond basic props
-* Clean folder structure (interviewers notice this)
-* Ready to extend with backend (Node, Firebase, etc.)
-
----
-
 ## 🔮 Future Improvements
 
 * Authentication (Login / Signup)
