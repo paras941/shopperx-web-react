@@ -1,0 +1,24 @@
+.breadcrum{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 60px 170px;
+    color: #6b7280;
+    text-transform: capitalize;
+    background: rgba(255,255,255,0.8);
+    padding: 10px 18px;
+    border-radius: 999px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    backdrop-filter: blur(8px);
+}
+
+.breadcrum span{
+    color: #ff4141;
+}
+
+.breadcrum::before{
+    content: "Home";
+    color: #9ca3af;
+} 

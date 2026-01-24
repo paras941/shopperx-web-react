@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+
+body{
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  margin: 0px;
+  -moz-osx-font-smoothing : grayscale;
+}
+

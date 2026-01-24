@@ -6,7 +6,7 @@ This project is designed to demonstrate production‑style frontend structure su
 
 ---
 
-Live Demo here : [click here](https://shopperx-web-7i4n.vercel.app)
+Live Demo here : [click here](https://shopperx-web-dsbu.vercel.app)
 ## 🚀 Tech Stack
 
 * React (Vite)
@@ -21,8 +21,8 @@ Live Demo here : [click here](https://shopperx-web-7i4n.vercel.app)
 
 ```
 shpper-site/
-│
-├── src/
+├──my-app
+|   ├── src/
 │   ├── Components/
 │   │   ├── Navbar/
 │   │   ├── Hero/
@@ -76,15 +76,6 @@ cd shopperx-web-react
 npm install
 npm run dev
 ```
-
----
-
-## 📌 Why This Project Matters (Placement POV)
-
-* Demonstrates **real React architecture** (Context + Hooks)
-* Shows understanding of **state management** beyond basic props
-* Clean folder structure (interviewers notice this)
-* Ready to extend with backend (Node, Firebase, etc.)
 
 ---
 
